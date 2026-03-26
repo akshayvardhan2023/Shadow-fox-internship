@@ -56,6 +56,12 @@ This task helped me understand how to transform raw data into meaningful visual 
 
 In this task, I performed an **in-depth analysis of air pollution data (AQI)** for Delhi using Python.
 
+## 📂 Project Files
+- 📄 Task 1: Visualization Library Documentation
+- 📄 Task 2: Advanced AQI Analysis Report (Delhi - Jan 2023)
+- 📄 Internship Final Report
+- 📄 LinkedIn Submission
+
 ### ⚙️ Steps Performed
 
 * Data loading and preprocessing using **Pandas**
@@ -63,6 +69,7 @@ In this task, I performed an **in-depth analysis of air pollution data (AQI)** f
 * Calculation of descriptive statistics
 * Visualization of PM2.5 trends over time
 * Correlation analysis between pollutants
+* 
 
 ### 📈 Key Insights
 
@@ -95,6 +102,11 @@ This task improved my ability to:
 * **NumPy**
 * **Jupyter Notebook / VS Code**
 
+* ![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Advanced%20Plots-green)
+
 ---
 
 ## 📊 Key Learnings
@@ -113,7 +125,18 @@ This task improved my ability to:
 
 ---
 
+
 ## ⭐ Conclusion
+
+
+## 🚀 Future Goals
+- Build Machine Learning Models
+- Participate in Kaggle Competitions
+- Work on real-world AI projects
+- Become a professional Data Scientist
+
+---
+⭐ If you like this project, feel free to star the repository!
 
 This internship played a significant role in strengthening my foundation in **Data Science**, especially in data visualization and analysis.
 I am eager to further enhance my skills and contribute to real-world data-driven solutions.
